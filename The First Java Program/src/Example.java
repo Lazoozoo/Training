@@ -1,5 +1,5 @@
 public class Example {
     public static void main(String args[]) {
-        System.out.println("Java правит интернетом");
+        System.out.println("Java правит Интернетом!");
     }
 }
